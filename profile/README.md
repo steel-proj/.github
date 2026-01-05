@@ -2,7 +2,7 @@
 <p>The steel project organisation contains all repositories related to the steel programming language, such as the compiler, standard library, and more.</p>
 
 <p>
-    <a href="github.com/steel-proj/steel">Steel</a> &bull;
+    <a href="https://github.com/steel-proj/steel">Steel</a> &bull;
     <a href="#installation">About</a> &bull;
     <a href="#getting-started">Contact</a>
 </p>
